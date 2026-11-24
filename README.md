@@ -38,19 +38,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=seasaltlatte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seasaltlatte&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
----
-
-<!-- Footer Gelombang -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=63B3ED&height=100§ion=footer" width="100%"/>
-</div>
