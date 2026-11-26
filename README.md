@@ -4,6 +4,6 @@
 
 <br/>
 
-### 👾 About Me
-- 💻 Interested in **software engineering**, **web & desktop development**.
-- 🎨 Enjoy exploring **UI/UX design** and building clean, functional applications from the ground up.
+### About Me
+- Interested in **software engineering**, **web & desktop development**.
+- Enjoy exploring **UI/UX design** and building clean, functional applications from the ground up.
